@@ -1,0 +1,5 @@
+My own implimentation of a Mootools modial dialog box for asp.net pages.
+Replaces the asp.net javascript postback href with 'javascript:void(0)'
+and does a postback with the result from the dialog box.
+
+I scripted this to be able to use a confirm dialog box when deleting rows on an asp.net GridView.
