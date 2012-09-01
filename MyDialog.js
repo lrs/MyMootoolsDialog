@@ -181,7 +181,7 @@ var IE6 = Browser.IE6, MyDialog = new Class({
 		})
 
 // Implementation:
-// Adds click event to elements with class ending 'showdialog' e.g. class="showdialog".
+// Adds click event to elements with class of 'showdialog'.
 // Puts result of closedialog function into resultContainer - the element with id ending 'dialogresult' e.g. id="ctl00_cph_main_dialogresult".
 // Using selectors where id or class ends with the string allows for the use of Master pages or not.
 
