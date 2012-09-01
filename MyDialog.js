@@ -1,4 +1,4 @@
-// My own implimentation of a Mootools modal dialog box for asp.net pages.
+// My own implementation of a Mootools modal dialog box for asp.net pages.
 // Replaces the asp.net javascript postback href with 'javascript:void(0)' and does a postback with the result from the dialog box.
 
 var IE6 = Browser.IE6, MyDialog = new Class({
